@@ -27,7 +27,6 @@ To run this project locally, you'll need to follow these steps:
 
 Clone the Repository:
 
-git clone https://github.com/your-username/vacation-planning-dashboard.git
 cd vacation-planning-dashboard
 Install Required Software:
 
