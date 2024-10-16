@@ -52,4 +52,5 @@ Final Project Presentation: A 15-minute presentation summarizing the project, re
 Data and Dashboard Files: Includes the Excel files used for data collection and the PowerBI dashboard file.
 ![GIF4](https://github.com/user-attachments/assets/3791253a-b8a9-42bb-af03-108de67a75d1)
 ![gif5](https://github.com/user-attachments/assets/e7d242eb-bc17-436d-8008-bb3bae11c76a)
+![carbon1](https://github.com/user-attachments/assets/0250f70c-30f1-4639-b5f2-5a831976c1a0)
 
